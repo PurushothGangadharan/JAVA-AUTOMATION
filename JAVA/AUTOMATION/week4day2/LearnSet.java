@@ -11,18 +11,17 @@ public static void main(String[] args) {
 	Set<String> name=new HashSet<String>();
 	//Set<String> name=new TreeSet<String>();
 	//Set<String> name=new LinkedHashSet<String>();
-	name.add("Akash");
-	name.add("Sanjay");
-	boolean add = name.add("vignesh");
+	name.add("");
+	name.add("");
+	boolean add = name.add("");
 	System.out.println(add);
-	name.add("Vel");
-	name.add("Prakash");
-	name.add("Manikandan");
-	boolean add2 = name.add("vignesh");
+	name.add("");
+	name.add("");
+	name.add("");
+	boolean add2 = name.add("");
 	System.out.println(add2);
 	
-	//[Akash, vignesh, Vel, Manikandan, Sanjay, Prakash]-hashset
-	//[Akash, Manikandan, Prakash, Sanjay, Vel, vignesh]-treeset
+	
 	System.out.println(name);
 }
 }
