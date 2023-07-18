@@ -24,7 +24,7 @@ for (String string : val) {
 }
 	
 	
-//	boolean contains = val.contains("Aravind");
+//	boolean contains = val.contains("");
 //	System.out.println(contains);
 //	
 //   String remove = val.remove(0);
