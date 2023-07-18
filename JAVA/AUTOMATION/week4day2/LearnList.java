@@ -7,13 +7,13 @@ public class LearnList {
 public static void main(String[] args) {
 	List<String> val=new ArrayList<String>();
 	
-	val.add("Akash");
-	val.add("Sanjay");
-	val.add(1, "vignesh");
-	val.add("Vel");
-	val.add("Prakash");
-	val.add("Manikandan");
-	val.add( "aravind");
+	val.add("");
+	val.add("");
+	val.add(1, "");
+	val.add("");
+	val.add("");
+	val.add("");
+	val.add( "");
 	System.out.println(val);
 	
 	int size = val.size();
